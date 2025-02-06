@@ -1,0 +1,2204 @@
+Kanji: 弘
+Keyword: vast
+Frequency: Top 2400-2500
+Readings: ひろ, こう, ぐ
+Composed Of: 弓: bow (weapon), 厶: arm of a bodybuilder
+----------------------------------------
+Kanji: 彦
+Keyword: lad
+Frequency: Top 2000-2100
+Readings: ひこ, びこ, げん
+Composed Of: 立: standing up, 厂: cliff, 彡: a patch of hair
+----------------------------------------
+Kanji: 李
+Keyword: plum
+Frequency: Top 2500-2600
+Readings: すもも, り
+Composed Of: 木: tree, 子: child
+----------------------------------------
+Kanji: 浩
+Keyword: vast and great
+Frequency: Top 2500-2600
+Readings: こう
+Composed Of: 氵: water drops, 告: reveal
+----------------------------------------
+Kanji: 宏
+Keyword: extensive
+Frequency: Top 2900-3000
+Readings: ひろ, こう
+Composed Of: 宀: roof with a chimney, 𠂇: by one's side, 厶: arm of a bodybuilder
+----------------------------------------
+Kanji: 旭
+Keyword: rising sun
+Frequency: Top 2400-2500
+Readings: あさひ, きょく
+Composed Of: 日: sun, 九: nine
+----------------------------------------
+Kanji: 磯
+Keyword: rocky beach
+Frequency: Top 2600-2700
+Readings: いそ
+Composed Of: 石: stone, 幾: how many
+----------------------------------------
+Kanji: 萩
+Keyword: bush clover
+Frequency: Top 2400-2500
+Readings: はぎ
+Composed Of: 艹: blades of grass, 秋: autumn
+----------------------------------------
+Kanji: 栗
+Keyword: chestnut
+Frequency: Top 2100-2200
+Readings: くり, ぐり, り, に
+Composed Of: 覀: helicopter, 木: tree
+----------------------------------------
+Kanji: 辰
+Keyword: sign of the dragon
+Frequency: Top 2100-2200
+Readings: たつ, しん
+Composed Of: 厂: cliff, 二: two, 󺨁: long legs
+----------------------------------------
+Kanji: 霞
+Keyword: haze
+Frequency: Top 1800-1900
+Readings: かすみ, かす, がすみ, か
+Composed Of: 雨: rain, 叚: borrowed key
+----------------------------------------
+Kanji: 淳
+Keyword: immaculate
+Frequency: Top 2900-3000
+Readings: じゅん
+Composed Of: 氵: water drops, 享: receive naturally
+----------------------------------------
+Kanji: 桂
+Keyword: katsura tree
+Frequency: Top 2200-2300
+Readings: かつら, けい
+Composed Of: 木: tree, 圭: square jewel
+----------------------------------------
+Kanji: 晋
+Keyword: Jin dynasty
+Frequency: Top 3100-3200
+Readings: しん
+Composed Of: 亚: enclosed runway, 日: sun
+----------------------------------------
+Kanji: 晃
+Keyword: sun rays
+Frequency: Uncommon
+Readings: こう
+Composed Of: 日: sun, 光: ray
+----------------------------------------
+Kanji: 桐
+Keyword: paulownia tree
+Frequency: Top 2000-2100
+Readings: きり, とう, ぎり
+Composed Of: 木: tree, 同: same
+----------------------------------------
+Kanji: 鷹
+Keyword: hawk
+Frequency: Top 1800-1900
+Readings: たか, よう, おう, おお
+Composed Of: 广: house on a cliff, 亻: thin person, 隹: old bird, 鳥: bird
+----------------------------------------
+Kanji: 猪
+Keyword: boar
+Frequency: Top 2200-2300
+Readings: いのしし, ちょ, しし, い
+Composed Of: 犭: animal, 者: someone
+----------------------------------------
+Kanji: 紘
+Keyword: chinstrap
+Frequency: Uncommon
+Readings: こう
+Composed Of: 糸: thread, 𠂇: by one's side, 厶: arm of a bodybuilder
+----------------------------------------
+Kanji: 敦
+Keyword: empathetic
+Frequency: Top 2800-2900
+Readings: とん, あつ
+Composed Of: 享: receive naturally, 攵: folding chair
+----------------------------------------
+Kanji: 祐
+Keyword: ancestral tablet
+Frequency: Top 2200-2300
+Readings: ゆう
+Composed Of: 礻: altar, 右: right
+----------------------------------------
+Kanji: 鵬
+Keyword: large mythical bird
+Frequency: Top 3200-3300
+Readings: おおとり, ほう, ぼう
+Composed Of: 朋: companion, 鳥: bird
+----------------------------------------
+Kanji: 亘
+Keyword: span
+Frequency: Top 2900-3000
+Readings: わた
+Composed Of: 一: one, 旦: start of a day
+----------------------------------------
+Kanji: 笹
+Keyword: bamboo grass
+Frequency: Top 2300-2400
+Readings: ささ, ざさ
+Composed Of: 竹: bamboo, 世: world
+----------------------------------------
+Kanji: 毅
+Keyword: stalwart
+Frequency: Top 2300-2400
+Readings: き
+Composed Of: 立: standing up, 豕: wild pig, 殳: weapon
+----------------------------------------
+Kanji: 稔
+Keyword: bear fruit
+Frequency: Uncommon
+Readings: みの
+Composed Of: 禾: grain plant, 念: a sense of
+----------------------------------------
+Kanji: 楊
+Keyword: purple willow
+Frequency: Top 2900-3000
+Readings: やなぎ, よう, や, げ
+Composed Of: 木: tree, 昜: light of the sun
+----------------------------------------
+Kanji: 椿
+Keyword: camellia
+Frequency: Top 1900-2000
+Readings: つばき, ちん
+Composed Of: 木: tree, 春: spring
+----------------------------------------
+Kanji: 厘
+Keyword: one-hundredth
+Frequency: Top 3300-3400
+Readings: りん, り
+Composed Of: 厂: cliff, 里: home village
+----------------------------------------
+Kanji: 圭
+Keyword: square jewel
+Frequency: Top 2000-2100
+Readings: けい
+Composed Of: 土: earth, 土: earth
+----------------------------------------
+Kanji: 薫
+Keyword: fragrant herb
+Frequency: Top 1900-2000
+Readings: くん, かお
+Composed Of: 艹: blades of grass, 重: heavy, 灬: fire sparks
+----------------------------------------
+Kanji: 伍
+Keyword: thin five
+Frequency: Top 2600-2700
+Readings: ご, い, いつ
+Composed Of: 亻: thin person, 五: five
+----------------------------------------
+Kanji: 蘭
+Keyword: orchid
+Frequency: Top 2000-2100
+Readings: らん, ら
+Composed Of: 艹: blades of grass, 闌: rise high
+----------------------------------------
+Kanji: 秦
+Keyword: Qin dynasty
+Frequency: Top 2900-3000
+Readings: しん
+Composed Of: 𡗗: three people, 禾: grain plant
+----------------------------------------
+Kanji: 茅
+Keyword: grassy reed
+Frequency: Top 2800-2900
+Readings: かや, ち, ちがや, ぼう, じ, ぢ
+Composed Of: 艹: blades of grass, 矛: halberd
+----------------------------------------
+Kanji: 郁
+Keyword: cultured
+Frequency: Top 2300-2400
+Readings: う, む, いく
+Composed Of: 有: be in possession, 阝: small village
+----------------------------------------
+Kanji: 楠
+Keyword: camphor tree
+Frequency: Top 2600-2700
+Readings: くす, くすのき, な
+Composed Of: 木: tree, 南: south
+----------------------------------------
+Kanji: 玲
+Keyword: tinkling
+Frequency: Top 1900-2000
+Readings: れい
+Composed Of: 王: king, 令: orders
+----------------------------------------
+Kanji: 肇
+Keyword: founding
+Frequency: Very rare
+Readings: ちょう
+Composed Of: 戸: door, 攵: folding chair, 聿: brush
+----------------------------------------
+Kanji: 亨
+Keyword: go smoothly
+Frequency: Top 3100-3200
+Readings: こう
+Composed Of: 亠: lid, 口: mouth, 了: finish
+----------------------------------------
+Kanji: 逓
+Keyword: parcel post
+Frequency: Uncommon
+Readings: てい
+Composed Of: 𠂆: slightly sloped cliff, 二: two, 丨: stick, 冂: upside-down box, ⻌: road
+----------------------------------------
+Kanji: 嶺
+Keyword: mountain ridge
+Frequency: Top 2400-2500
+Readings: ね, れい, みね
+Composed Of: 山: mountain, 領: territory
+----------------------------------------
+Kanji: 喬
+Keyword: tall
+Frequency: Uncommon
+Readings: きょう
+Composed Of: 呑: swallow whole, 冂: upside-down box, 口: mouth
+----------------------------------------
+
+
+
+
+
+
+
+
+Kanji: 寅
+Keyword: sign of the tiger
+Frequency: Top 3000-3100
+Readings: とら, いん
+Composed Of: 宀: roof with a chimney, 一: one, 由: reason, ハ: short legs
+----------------------------------------
+Kanji: 洲
+Keyword: sandbank
+Frequency: Top 2300-2400
+Readings: す, しゅう
+Composed Of: 氵: water drops, 州: state
+----------------------------------------
+Kanji: 樺
+Keyword: birch
+Frequency: Top 2800-2900
+Readings: かば, かんば, かにわ, から
+Composed Of: 木: tree, 華: flashy flower
+----------------------------------------
+Kanji: 槙
+Keyword: Chinese black pine
+Frequency: Top 3400-3500
+Readings: まき
+Composed Of: 木: tree, 真: truth
+----------------------------------------
+Kanji: 巌
+Keyword: huge rock
+Frequency: Top 2800-2900
+Readings: いわ, いわお, がん
+Composed Of: 山: mountain, 厳: strict
+----------------------------------------
+Kanji: 峻
+Keyword: steep mountain
+Frequency: Top 3100-3200
+Readings: しゅん
+Composed Of: 山: mountain, 夋: license to go
+----------------------------------------
+Kanji: 槻
+Keyword: zelkova
+Frequency: Top 2800-2900
+Readings: けやき, つき
+Composed Of: 木: tree, 規: criteria
+----------------------------------------
+Kanji: 琢
+Keyword: hone
+Frequency: Top 2300-2400
+Readings: たく
+Composed Of: 王: king, 豕: wild pig
+----------------------------------------
+Kanji: 蕉
+Keyword: banana
+Frequency: Top 3200-3300
+Readings: しょう
+Composed Of: 艹: blades of grass, 焦: get burned
+----------------------------------------
+Kanji: 琉
+Keyword: lapis lazuli
+Frequency: Top 2600-2700
+Readings: りゅう
+Composed Of: 王: king, 㐬: leaky kettle
+----------------------------------------
+Kanji: 朋
+Keyword: companion
+Frequency: Top 2600-2700
+Readings: ほう, とも, ぼう
+Composed Of: 月: moon, 月: moon
+----------------------------------------
+Kanji: 橘
+Keyword: mandarin orange
+Frequency: Top 1700-1800
+Readings: たちばな, きつ
+Composed Of: 木: tree, 矛: halberd, 冏: upside-down box with animal parts inside
+----------------------------------------
+Kanji: 漱
+Keyword: gargle
+Frequency: Top 3100-3200
+Readings: すす, ゆす, うがい, そう
+Composed Of: 氵: water drops, 束: bundle, 欠: lack of
+----------------------------------------
+Kanji: 苑
+Keyword: man-made garden
+Frequency: Top 1900-2000
+Readings: おん, えん, その
+Composed Of: 艹: blades of grass, 夕: evening (before sunset), 㔾: fingerprint
+----------------------------------------
+Kanji: 巽
+Keyword: southeast
+Frequency: Top 3000-3100
+Readings: たつみ
+Composed Of: 己: oneself, 己: oneself, 共: together
+----------------------------------------
+Kanji: 杜
+Keyword: temple grove
+Frequency: Top 2300-2400
+Readings: もり, ず, と
+Composed Of: 木: tree, 土: earth
+----------------------------------------
+Kanji: 翁
+Keyword: venerable old man
+Frequency: Top 2300-2400
+Readings: おう, おきな, のう, じ
+Composed Of: 公: public, 羽: feathers
+----------------------------------------
+Kanji: 欣
+Keyword: elation
+Frequency: Uncommon
+Readings: きん, よろこ, ごん
+Composed Of: 斤: axe, 欠: lack of
+----------------------------------------
+Kanji: 窯
+Keyword: kiln
+Frequency: Top 2800-2900
+Readings: かま, がま, よう
+Composed Of: 穴: hole, 羔: lamb
+----------------------------------------
+Kanji: 巴
+Keyword: swirly pattern
+Frequency: Top 2100-2200
+Readings: ともえ, ぱ, どもえ
+Composed Of: 色: color, 把: grasp, 肥: fertilizer, 琶: lute
+----------------------------------------
+Kanji: 禎
+Keyword: felicitation
+Frequency: Uncommon
+Readings: てい
+Composed Of: 礻: altar, 貞: principled
+----------------------------------------
+Kanji: 稜
+Keyword: imperial authority
+Frequency: Top 2800-2900
+Readings: りょう
+Composed Of: 禾: grain plant, 土: earth, 儿: legs, 夂: late winter
+----------------------------------------
+Kanji: 倭
+Keyword: Yamato
+Frequency: Top 3200-3300
+Readings: わ, やまと
+Composed Of: 亻: thin person, 委: committee
+----------------------------------------
+Kanji: 魁
+Keyword: pioneer
+Frequency: Top 2500-2600
+Readings: さきがけ, かい
+Composed Of: 斗: 18 litres, 鬼: oni
+----------------------------------------
+Kanji: 鴻
+Keyword: large goose
+Frequency: Top 2800-2900
+Readings: おおとり, こう
+Composed Of: 氵: water drops, 工: construction, 鳥: bird
+----------------------------------------
+Kanji: 於
+Keyword: regarding
+Frequency: Top 2300-2400
+Readings: おい, お, おいて
+Composed Of: 方: way, 人: person, 丶: droplet, 丶: droplet
+----------------------------------------
+Kanji: 赳
+Keyword: bold
+Frequency: Very rare
+Readings: 
+Composed Of: 丩: vines, 走: run
+----------------------------------------
+Kanji: 禄
+Keyword: salary
+Frequency: Top 2400-2500
+Readings: ろく
+Composed Of: 礻: altar, 彐: partially buried broken trident, 氺: water splash
+----------------------------------------
+Kanji: 孟
+Keyword: start
+Frequency: Top 3500-3600
+Readings: もう
+Composed Of: 子: child, 皿: dish
+----------------------------------------
+Kanji: 嫡
+Keyword: legitimate wife
+Frequency: Top 2300-2400
+Readings: ちゃく, てき
+Composed Of: 女: woman, 啇: almost enemy
+----------------------------------------
+Kanji: 尭
+Keyword: lofty
+Frequency: Top 3200-3300
+Readings: ぎょう
+Composed Of: 十: ten, 龷: fence made of sticks, 儿: legs
+----------------------------------------
+Kanji: 嚇
+Keyword: intimidate
+Frequency: Top 2200-2300
+Readings: かく, おど
+Composed Of: 口: mouth, 赫: incandescent
+----------------------------------------
+Kanji: 巳
+Keyword: sign of the snake
+Frequency: Top 2200-2300
+Readings: み, し
+Composed Of: 祀: worship as a god, 煕: bright light
+----------------------------------------
+Kanji: 暢
+Keyword: carefree
+Frequency: Top 2500-2600
+Readings: のん, ちょう
+Composed Of: 申: say humbly, 昜: light of the sun
+----------------------------------------
+Kanji: 韻
+Keyword: rhyme
+Frequency: Top 2100-2200
+Readings: いん
+Composed Of: 音: sound, 員: member
+----------------------------------------
+Kanji: 硝
+Keyword: nitric
+Frequency: Top 2000-2100
+Readings: しょう
+Composed Of: 石: stone, 肖: be worthy of
+----------------------------------------
+Kanji: 勅
+Keyword: imperial order
+Frequency: Top 2500-2600
+Readings: ちょく, みことのり, ちょっ
+Composed Of: 束: bundle, 力: power
+----------------------------------------
+Kanji: 芹
+Keyword: parsley
+Frequency: Top 2300-2400
+Readings: せり
+Composed Of: 艹: blades of grass, 斤: axe
+----------------------------------------
+Kanji: 棺
+Keyword: coffin
+Frequency: Top 2100-2200
+Readings: かん, ひつぎ
+Composed Of: 木: tree, 官: bureaucrat
+----------------------------------------
+Kanji: 儒
+Keyword: confucian
+Frequency: Top 3200-3300
+Readings: じゅ
+Composed Of: 亻: thin person, 需: demand (for something)
+----------------------------------------
+Kanji: 鳳
+Keyword: phoenix
+Frequency: Top 1900-2000
+Readings: ほう, おおとり
+Composed Of: 几: desk, 一: one, 鳥: bird
+----------------------------------------
+Kanji: 馨
+Keyword: heavenly smell
+Frequency: Top 3200-3300
+Readings: かぐわ, かお, かんば, けい
+Composed Of: 声: voice, 殳: weapon, 香: nice smell
+----------------------------------------
+Kanji: 慧
+Keyword: astute
+Frequency: Top 2300-2400
+Readings: え, けい
+Composed Of: 彗: comet, 心: heart
+----------------------------------------
+Kanji: 愁
+Keyword: distress
+Frequency: Top 2400-2500
+Readings: しゅう, うれ
+Composed Of: 秋: autumn, 心: heart
+----------------------------------------
+Kanji: 楼
+Keyword: building with at least two floors
+Frequency: Top 2100-2200
+Readings: ろう, る
+Composed Of: 木: tree, 米: rice, 女: woman
+----------------------------------------
+Kanji: 彬
+Keyword: copious
+Frequency: Uncommon
+Readings: ひん, ぴん
+Composed Of: 林: a bunch of trees, 彡: a patch of hair
+----------------------------------------
+Kanji: 匡
+Keyword: set straight
+Frequency: Uncommon
+Readings: きょう
+Composed Of: 匚: box on its side, 王: king
+----------------------------------------
+Kanji: 欽
+Keyword: circumspect
+Frequency: Uncommon
+Readings: きん
+Composed Of: 金: gold, 欠: lack of
+----------------------------------------
+Kanji: 薪
+Keyword: firewood
+Frequency: Top 2200-2300
+Readings: まき, たきぎ, しん
+Composed Of: 艹: blades of grass, 新: new
+----------------------------------------
+Kanji: 褐
+Keyword: brown
+Frequency: Top 2300-2400
+Readings: かっ, かつ, かち, かちん
+Composed Of: 衤: altar clothes, 日: sun, 匂: scent
+----------------------------------------
+Kanji: 賜
+Keyword: grant
+Frequency: Top 2100-2200
+Readings: たまわ, たま, し, たまもの
+Composed Of: 貝: shellfish, 易: easy
+----------------------------------------
+Kanji: 嵯
+Keyword: rocky
+Frequency: Top 3300-3400
+Readings: さ
+Composed Of: 山: mountain, 差: difference
+----------------------------------------
+Kanji: 綜
+Keyword: synthesis
+Frequency: Top 3000-3100
+Readings: そう, あぜ
+Composed Of: 糸: thread, 宗: religion
+----------------------------------------
+Kanji: 繕
+Keyword: darning
+Frequency: Top 1800-1900
+Readings: つくろ, ぜん, づくろ
+Composed Of: 糸: thread, 善: morally good
+----------------------------------------
+Kanji: 翠
+Keyword: jade green
+Frequency: Top 1700-1800
+Readings: すい, みどり
+Composed Of: 羽: feathers, 卒: graduate
+----------------------------------------
+Kanji: 鮎
+Keyword: sweetfish
+Frequency: Top 2700-2800
+Readings: あゆ, あい, ゆ
+Composed Of: 魚: fish, 占: fortune-telling
+----------------------------------------
+Kanji: 榛
+Keyword: hazel (a type of small tree)
+Frequency: Top 2600-2700
+Readings: はしばみ, はん
+Composed Of: 木: tree, 秦: Qin dynasty
+----------------------------------------
+Kanji: 艶
+Keyword: glossy
+Frequency: Top 1600-1700
+Readings: つや, えん, あで, なま, なまめ
+Composed Of: 豊: plentiful, 色: color
+----------------------------------------
+Kanji: 惣
+Keyword: firstborn son
+Frequency: Top 2600-2700
+Readings: そう
+Composed Of: 物: thing, 心: heart
+----------------------------------------
+Kanji: 蔦
+Keyword: vine
+Frequency: Top 2400-2500
+Readings: つた, づた
+Composed Of: 艹: blades of grass, 鳥: bird
+----------------------------------------
+Kanji: 渚
+Keyword: strand
+Frequency: Top 2100-2200
+Readings: なぎさ, みぎわ
+Composed Of: 氵: water drops, 者: someone
+----------------------------------------
+Kanji: 衷
+Keyword: inmost
+Frequency: Top 3100-3200
+Readings: ちゅう
+Composed Of: 十: ten, 口: mouth, 𧘇: cape
+----------------------------------------
+Kanji: 逐
+Keyword: pursue
+Frequency: Top 2100-2200
+Readings: ちく, お
+Composed Of: 豕: wild pig, ⻌: road
+----------------------------------------
+Kanji: 斥
+Keyword: reject
+Frequency: Top 2200-2300
+Readings: せっ, せき, しりぞ
+Composed Of: 斤: axe, 丶: droplet
+----------------------------------------
+Kanji: 稀
+Keyword: rare
+Frequency: Top 1900-2000
+Readings: き, まれ, け
+Composed Of: 禾: grain plant, 希: dilute
+----------------------------------------
+Kanji: 芙
+Keyword: lotus flower
+Frequency: Top 2800-2900
+Readings: ふ
+Composed Of: 艹: blades of grass, 夫: husband
+----------------------------------------
+Kanji: 詔
+Keyword: imperial edict
+Frequency: Top 3300-3400
+Readings: しょう, みことのり
+Composed Of: 言: say, 召: to summon
+----------------------------------------
+Kanji: 皐
+Keyword: lunar month
+Frequency: Top 2300-2400
+Readings: さ
+Composed Of: 白: white, 十: ten, 二: two, 二: two
+----------------------------------------
+Kanji: 雛
+Keyword: chick
+Frequency: Top 1800-1900
+Readings: ひな, すう, びな
+Composed Of: 芻: hay, 隹: old bird
+----------------------------------------
+Kanji: 惟
+Keyword: ponder
+Frequency: Top 3000-3100
+Readings: い, ゆい, これ, おもいみ, おもんみ
+Composed Of: 忄: weak heart, 隹: old bird
+----------------------------------------
+Kanji: 佑
+Keyword: adjutant
+Frequency: Top 2500-2600
+Readings: ゆう, たす
+Composed Of: 亻: thin person, 右: right
+----------------------------------------
+Kanji: 耀
+Keyword: shimmering
+Frequency: Top 3400-3500
+Readings: よう, かがや, かがよ
+Composed Of: 光: ray, ヨ: broken trident, ヨ: broken trident, 隹: old bird
+----------------------------------------
+Kanji: 黛
+Keyword: blue-black
+Frequency: Top 2900-3000
+Readings: まゆずみ, たい
+Composed Of: 代: substitute, 黒: black
+----------------------------------------
+Kanji: 渥
+Keyword: moisten
+Frequency: Uncommon
+Readings: あく
+Composed Of: 氵: water drops, 屋: roof
+----------------------------------------
+Kanji: 宵
+Keyword: early night
+Frequency: Top 2000-2100
+Readings: よい, しょう
+Composed Of: 宀: roof with a chimney, 肖: be worthy of
+----------------------------------------
+Kanji: 惇
+Keyword: considerate
+Frequency: Very rare
+Readings: とん
+Composed Of: 忄: weak heart, 享: receive naturally
+----------------------------------------
+Kanji: 脩
+Keyword: dried meat
+Frequency: Very rare
+Readings: しゅう
+Composed Of: 亻: thin person, 丨: stick, 攵: folding chair, 月: moon
+----------------------------------------
+Kanji: 甫
+Keyword: start of
+Frequency: Very rare
+Readings: ぽ, はじ
+Composed Of: 丶: droplet, 十: ten, 月: moon
+----------------------------------------
+Kanji: 蚕
+Keyword: silkworm
+Frequency: Top 2700-2800
+Readings: かいこ, さん
+Composed Of: 天: heaven, 虫: insect
+----------------------------------------
+Kanji: 暉
+Keyword: glitter
+Frequency: Very rare
+Readings: き
+Composed Of: 日: sun, 軍: army
+----------------------------------------
+Kanji: 頒
+Keyword: partition
+Frequency: Top 3500-3600
+Readings: はん, あか
+Composed Of: 分: part, 頁: page
+----------------------------------------
+Kanji: 只
+Keyword: ordinary
+Frequency: Top 2100-2200
+Readings: ただ
+Composed Of: 口: mouth, ハ: short legs
+----------------------------------------
+Kanji: 檀
+Keyword: sandalwood
+Frequency: Top 2800-2900
+Readings: だん, たん
+Composed Of: 木: tree, 亶: truly
+----------------------------------------
+Kanji: 凱
+Keyword: triumph
+Frequency: Top 2700-2800
+Readings: がい
+Composed Of: 豈: an interjection of surprise, 几: desk
+----------------------------------------
+Kanji: 彗
+Keyword: comet
+Frequency: Top 2800-2900
+Readings: すい
+Composed Of: 丰: lush, 丰: lush, ⺕: sideways trident
+----------------------------------------
+Kanji: 謄
+Keyword: certified copy
+Frequency: Top 3500-3600
+Readings: とう
+Composed Of: 月: moon, 龹: evil husband, 言: say
+----------------------------------------
+Kanji: 丑
+Keyword: sign of the cow
+Frequency: Top 3100-3200
+Readings: うし, ちゅう
+Composed Of: 紐: string, 羞: embarrassment, 忸: ???, 鈕: ???
+----------------------------------------
+Kanji: 嗣
+Keyword: heir
+Frequency: Top 2600-2700
+Readings: し, つ, つぎ
+Composed Of: 口: mouth, 冊: volume (of a book), 司: boss
+----------------------------------------
+Kanji: 叶
+Keyword: become true (a wish or a prayer)
+Frequency: Top 1300-1400
+Readings: かな
+Composed Of: 口: mouth, 十: ten
+----------------------------------------
+Kanji: 汐
+Keyword: evening tide
+Frequency: Top 2000-2100
+Readings: しお, せき
+Composed Of: 氵: water drops, 夕: evening (before sunset)
+----------------------------------------
+Kanji: 絢
+Keyword: gorgeous
+Frequency: Top 2800-2900
+Readings: けん
+Composed Of: 糸: thread, 旬: ten days
+----------------------------------------
+Kanji: 朔
+Keyword: first day of the month
+Frequency: Top 2100-2200
+Readings: さく, ついたち, つきたち, つい
+Composed Of: 䒑: antlers on a wall, 屮: a sprout, 月: moon
+----------------------------------------
+Kanji: 伽
+Keyword: look after
+Frequency: Top 2200-2300
+Readings: とぎ, が, きゃ
+Composed Of: 亻: thin person, 加: add
+----------------------------------------
+Kanji: 畝
+Keyword: furrow
+Frequency: Top 3300-3400
+Readings: うね, せ
+Composed Of: 亠: lid, 田: rice field, 久: long time
+----------------------------------------
+Kanji: 抄
+Keyword: extract
+Frequency: Top 3500-3600
+Readings: しょう
+Composed Of: 扌: left hand, 少: few
+----------------------------------------
+Kanji: 黎
+Keyword: tenebrous
+Frequency: Top 3100-3200
+Readings: れい
+Composed Of: 禾: grain plant, 勹: plastic wrapper, 丿: slash left, 人: person, 氺: water splash
+----------------------------------------
+Kanji: 冴
+Keyword: clarity
+Frequency: Top 1900-2000
+Readings: さ, さえ, ざ
+Composed Of: 冫: icicles, 牙: fang
+----------------------------------------
+Kanji: 旺
+Keyword: full of vigor
+Frequency: Top 2700-2800
+Readings: おう
+Composed Of: 日: sun, 王: king
+----------------------------------------
+Kanji: 壱
+Keyword: one (formal)
+Frequency: Top 2400-2500
+Readings: いち, い
+Composed Of: 士: professional, 冖: roof without a chimney, 匕: spoon
+----------------------------------------
+Kanji: 偲
+Keyword: memorial
+Frequency: Top 3200-3300
+Readings: しの
+Composed Of: 亻: thin person, 思: think (that something is true)
+----------------------------------------
+Kanji: 允
+Keyword: license
+Frequency: Top 3500-3600
+Readings: いん
+Composed Of: 厶: arm of a bodybuilder, 儿: legs
+----------------------------------------
+Kanji: 侯
+Keyword: marquis
+Frequency: Top 1300-1400
+Readings: こう
+Composed Of: 亻: thin person, ユ: submarine periscope, 矢: arrow
+----------------------------------------
+Kanji: 蒔
+Keyword: sow seeds
+Frequency: Top 2500-2600
+Readings: ま, まき
+Composed Of: 艹: blades of grass, 時: time
+----------------------------------------
+Kanji: 舜
+Keyword: rose of Sharon
+Frequency: Top 3200-3300
+Readings: 
+Composed Of: 爫: claw (radical), 冖: roof without a chimney, 舛: dancing legs
+----------------------------------------
+Kanji: 附
+Keyword: attachment
+Frequency: Top 2500-2600
+Readings: ふ, つ, つけ, づけ, っ, ぶ
+Composed Of: 阝: small village, 付: attach
+----------------------------------------
+Kanji: 彪
+Keyword: mottled
+Frequency: Very rare
+Readings: 
+Composed Of: 彡: a patch of hair, 虎: tiger
+----------------------------------------
+Kanji: 卯
+Keyword: sign of the hare
+Frequency: Top 2500-2600
+Readings: う, ぼう
+Composed Of: 卿: magistrate, 卵: egg, 柳: willow tree, 昴: overarching
+----------------------------------------
+Kanji: 但
+Keyword: however
+Frequency: Top 2600-2700
+Readings: ただ, たじ
+Composed Of: 亻: thin person, 旦: start of a day
+----------------------------------------
+Kanji: 皓
+Keyword: beaming
+Frequency: Top 3000-3100
+Readings: こう
+Composed Of: 白: white, 告: reveal
+----------------------------------------
+Kanji: 洸
+Keyword: glistening
+Frequency: Top 3100-3200
+Readings: こう
+Composed Of: 氵: water drops, 光: ray
+----------------------------------------
+Kanji: 毬
+Keyword: furball
+Frequency: Top 2800-2900
+Readings: まり, かさ, いが, ふぐり, ぼくり
+Composed Of: 求: seek, 毛: fur
+----------------------------------------
+Kanji: 鯛
+Keyword: sea bream
+Frequency: Top 2800-2900
+Readings: たい, だい
+Composed Of: 魚: fish, 周: circumference
+----------------------------------------
+Kanji: 怜
+Keyword: quickwitted
+Frequency: Top 2500-2600
+Readings: れい
+Composed Of: 忄: weak heart, 令: orders
+----------------------------------------
+Kanji: 邑
+Keyword: city walls
+Frequency: Top 3100-3200
+Readings: おおざと, おおざる, ゆう
+Composed Of: 口: mouth, 巴: swirly pattern
+----------------------------------------
+Kanji: 倣
+Keyword: emulate
+Frequency: Top 2200-2300
+Readings: ほう, なら
+Composed Of: 亻: thin person, 放: release
+----------------------------------------
+Kanji: 碧
+Keyword: blue-green
+Frequency: Top 2000-2100
+Readings: あお, へき, ぺき
+Composed Of: 珀: amber, 石: stone
+----------------------------------------
+Kanji: 啄
+Keyword: peck at
+Frequency: Top 3100-3200
+Readings: ついば, たく
+Composed Of: 口: mouth, 豕: wild pig
+----------------------------------------
+Kanji: 穣
+Keyword: yielding abundantly
+Frequency: Top 2800-2900
+Readings: じょう
+Composed Of: 禾: grain plant, 六: six, 𠀎: tall fence made of sticks, 𧘇: cape
+----------------------------------------
+Kanji: 酉
+Keyword: sign of the bird
+Frequency: Top 3500-3600
+Readings: とり, ゆう
+Composed Of: 西: west, 一: one
+----------------------------------------
+Kanji: 悌
+Keyword: respect for elders
+Frequency: Uncommon
+Readings: てい
+Composed Of: 忄: weak heart, 弟: younger brother
+----------------------------------------
+Kanji: 柚
+Keyword: citron
+Frequency: Top 1900-2000
+Readings: ゆ, ゆず, ゆう
+Composed Of: 木: tree, 由: reason
+----------------------------------------
+Kanji: 繭
+Keyword: cocoon
+Frequency: Top 2400-2500
+Readings: まゆ
+Composed Of: 艹: blades of grass, 冂: upside-down box, 丨: stick, 幺: thread spool, 灬: fire sparks, 虫: insect
+----------------------------------------
+Kanji: 亦
+Keyword: bloody knife
+Frequency: Top 3200-3300
+Readings: また
+Composed Of: 亠: lid, ハ: short legs, 刂: knife
+----------------------------------------
+Kanji: 詢
+Keyword: counsel
+Frequency: Very rare
+Readings: じゅん
+Composed Of: 言: say, 旬: ten days
+----------------------------------------
+Kanji: 采
+Keyword: colorful dice
+Frequency: Top 2200-2300
+Readings: さい, さえ
+Composed Of: 爫: claw (radical), 木: tree
+----------------------------------------
+Kanji: 紗
+Keyword: gauze
+Frequency: Top 1500-1600
+Readings: しゃ, さ
+Composed Of: 糸: thread, 少: few
+----------------------------------------
+Kanji: 賦
+Keyword: levy
+Frequency: Top 2600-2700
+Readings: ぷ, ふ, ぶ
+Composed Of: 貝: shellfish, 武: military
+----------------------------------------
+Kanji: 眸
+Keyword: iris (of eye)
+Frequency: Top 2100-2200
+Readings: ぼう, ひとみ
+Composed Of: 目: eye, 牟: moo
+----------------------------------------
+Kanji: 玖
+Keyword: jet
+Frequency: Top 2500-2600
+Readings: きゅう, く, ここ, ここの, この
+Composed Of: 王: king, 久: long time
+----------------------------------------
+Kanji: 弐
+Keyword: two (formal)
+Frequency: Top 2700-2800
+Readings: に, ふた, ふ, ふう
+Composed Of: 弋: shoot with a bow, 二: two, 一: one
+----------------------------------------
+Kanji: 錘
+Keyword: spindle
+Frequency: Top 3200-3300
+Readings: おもり, すい, む, つみ, つむ
+Composed Of: 金: gold, 垂: droop
+----------------------------------------
+Kanji: 諄
+Keyword: wordy
+Frequency: Uncommon
+Readings: じゅん, くど
+Composed Of: 言: say, 享: receive naturally
+----------------------------------------
+Kanji: 倖
+Keyword: happy person
+Frequency: Top 2700-2800
+Readings: こう, しあわ, しやわ
+Composed Of: 亻: thin person, 幸: happiness
+----------------------------------------
+Kanji: 痘
+Keyword: smallpox
+Frequency: Top 3100-3200
+Readings: とう, も, いも
+Composed Of: 疒: sickness, 豆: bean
+----------------------------------------
+Kanji: 笙
+Keyword: Chinese panpipe
+Frequency: Uncommon
+Readings: しょう, そう
+Composed Of: 竹: bamboo, 生: life
+----------------------------------------
+Kanji: 侃
+Keyword: integrity
+Frequency: Uncommon
+Readings: かん
+Composed Of: 亻: thin person, 口: mouth, 儿: legs, 丨: stick
+----------------------------------------
+Kanji: 裟
+Keyword: monk’s sash
+Frequency: Top 2100-2200
+Readings: さ
+Composed Of: 沙: grains of sand, 衣: garment
+----------------------------------------
+Kanji: 洵
+Keyword: swirling waters
+Frequency: Very rare
+Readings: まこと
+Composed Of: 氵: water drops, 旬: ten days
+----------------------------------------
+Kanji: 爾
+Keyword: let it be
+Frequency: Top 3100-3200
+Readings: じ, しか
+Composed Of: 一: one, ハ: short legs, 巾: piece of fabric, 爻: to mix with, 爻: to mix with
+----------------------------------------
+Kanji: 耗
+Keyword: decrease
+Frequency: Top 1800-1900
+Readings: もう, こう
+Composed Of: 耒: handle of a plow, 毛: fur
+----------------------------------------
+Kanji: 昴
+Keyword: overarching
+Frequency: Top 2200-2300
+Readings: ぼう, すばる, すまる
+Composed Of: 日: sun, 卯: sign of the hare
+----------------------------------------
+Kanji: 銑
+Keyword: pig iron
+Frequency: Uncommon
+Readings: ずく, せん
+Composed Of: 金: gold, 先: before (timewise)
+----------------------------------------
+Kanji: 莞
+Keyword: smile sweetly
+Frequency: Top 3500-3600
+Readings: かん, ふとい
+Composed Of: 艹: blades of grass, 完: complete
+----------------------------------------
+Kanji: 伶
+Keyword: minstrel
+Frequency: Uncommon
+Readings: れい
+Composed Of: 亻: thin person, 令: orders
+----------------------------------------
+Kanji: 碩
+Keyword: illustrious
+Frequency: Top 3400-3500
+Readings: せき
+Composed Of: 石: stone, 頁: page
+----------------------------------------
+Kanji: 宥
+Keyword: soothe
+Frequency: Top 2300-2400
+Readings: なだ, ゆう
+Composed Of: 宀: roof with a chimney, 有: be in possession
+----------------------------------------
+Kanji: 滉
+Keyword: bounding main
+Frequency: Very rare
+Readings: こう
+Composed Of: 氵: water drops, 晃: sun rays
+----------------------------------------
+Kanji: 晏
+Keyword: clear skies
+Frequency: Very rare
+Readings: あん
+Composed Of: 日: sun, 安: peace of mind
+----------------------------------------
+Kanji: 朕
+Keyword: majestic plural
+Frequency: Top 2900-3000
+Readings: ちん
+Composed Of: 月: moon, 丷: horns, 天: heaven
+----------------------------------------
+Kanji: 迪
+Keyword: road to enlightenment
+Frequency: Never used
+Readings: てき
+Composed Of: 由: reason, ⻌: road
+----------------------------------------
+Kanji: 綸
+Keyword: twine
+Frequency: Uncommon
+Readings: りん
+Composed Of: 糸: thread, 亼: sloped roof, 冊: volume (of a book)
+----------------------------------------
+Kanji: 竣
+Keyword: complete a job
+Frequency: Uncommon
+Readings: しゅん
+Composed Of: 立: standing up, 夋: license to go
+----------------------------------------
+Kanji: 晨
+Keyword: morrow
+Frequency: Uncommon
+Readings: あした, じん, しん
+Composed Of: 日: sun, 辰: sign of the dragon
+----------------------------------------
+Kanji: 吏
+Keyword: government official
+Frequency: Top 2500-2600
+Readings: り
+Composed Of: 一: one, 史: history
+----------------------------------------
+Kanji: 燦
+Keyword: brilliant
+Frequency: Top 2500-2600
+Readings: さん
+Composed Of: 火: fire, ⺊: divining rod, 夕: evening (before sunset), 又: once again, 米: rice
+----------------------------------------
+Kanji: 麿
+Keyword: person with shaved eyebrows
+Frequency: Top 3400-3500
+Readings: まろ
+Composed Of: 麻: hemp, 呂: bathtub
+----------------------------------------
+Kanji: 頌
+Keyword: accolade
+Frequency: Uncommon
+Readings: しょう, いわいうた, じゅ
+Composed Of: 公: public, 頁: page
+----------------------------------------
+Kanji: 箇
+Keyword: item
+Frequency: Top 1800-1900
+Readings: か, こ
+Composed Of: 竹: bamboo, 固: solidify
+----------------------------------------
+Kanji: 琳
+Keyword: chime
+Frequency: Very rare
+Readings: りん
+Composed Of: 王: king, 林: a bunch of trees
+----------------------------------------
+Kanji: 梧
+Keyword: parasol tree
+Frequency: Top 3400-3500
+Readings: ご, あお
+Composed Of: 木: tree, 吾: me (ceremonial)
+----------------------------------------
+Kanji: 澪
+Keyword: canal
+Frequency: Top 1900-2000
+Readings: みお, れい
+Composed Of: 氵: water drops, 零: zero
+----------------------------------------
+Kanji: 匁
+Keyword: monme
+Frequency: Uncommon
+Readings: もんめ
+Composed Of: 勹: plastic wrapper, 乂: folding chair legs
+----------------------------------------
+Kanji: 晟
+Keyword: aglow
+Frequency: Very rare
+Readings: 
+Composed Of: 日: sun, 成: become
+----------------------------------------
+Kanji: 衿
+Keyword: lapel
+Frequency: Top 3300-3400
+Readings: えり
+Composed Of: 衤: altar clothes, 今: now
+----------------------------------------
+Kanji: 凪
+Keyword: lull
+Frequency: Top 1600-1700
+Readings: なぎ, な
+Composed Of: 几: desk, 止: stop
+----------------------------------------
+Kanji: 梢
+Keyword: treetops
+Frequency: Top 2300-2400
+Readings: こずえ, しょう
+Composed Of: 木: tree, 肖: be worthy of
+----------------------------------------
+Kanji: 丙
+Keyword: third in class
+Frequency: Top 3400-3500
+Readings: へい, ひのえ
+Composed Of: 一: one, 内: inside
+----------------------------------------
+Kanji: 茄
+Keyword: eggplant
+Frequency: Top 3000-3100
+Readings: な, なす
+Composed Of: 艹: blades of grass, 加: add
+----------------------------------------
+Kanji: 勺
+Keyword: a spoonful of fluid
+Frequency: Uncommon
+Readings: しゃく, せき
+Composed Of: 勹: plastic wrapper, 丶: droplet
+----------------------------------------
+Kanji: 恕
+Keyword: sensitive
+Frequency: Top 2700-2800
+Readings: じょ
+Composed Of: 如: comparable, 心: heart
+----------------------------------------
+Kanji: 蕗
+Keyword: butterbur
+Frequency: Top 3300-3400
+Readings: ふき, ふふき, ぶき
+Composed Of: 艹: blades of grass, 路: path
+----------------------------------------
+Kanji: 瑚
+Keyword: coral reef
+Frequency: Top 2700-2800
+Readings: ご
+Composed Of: 王: king, 胡: ancient barbarian
+----------------------------------------
+Kanji: 遵
+Keyword: conform
+Frequency: Top 3000-3100
+Readings: じゅん
+Composed Of: 尊: esteem, ⻌: road
+----------------------------------------
+Kanji: 燎
+Keyword: watchfire
+Frequency: Top 2900-3000
+Readings: りょう
+Composed Of: 火: fire, 尞: fuel used for sacrifices
+----------------------------------------
+Kanji: 虞
+Keyword: uneasiness
+Frequency: Top 3400-3500
+Readings: おそれ, ぐ
+Composed Of: 虍: tiger's head, 呉: give
+----------------------------------------
+Kanji: 柊
+Keyword: holly
+Frequency: Top 1900-2000
+Readings: ひいらぎ, ひらぎ
+Composed Of: 木: tree, 冬: winter
+----------------------------------------
+Kanji: 侑
+Keyword: condone
+Frequency: Uncommon
+Readings: ゆう
+Composed Of: 亻: thin person, 有: be in possession
+----------------------------------------
+Kanji: 謁
+Keyword: audience
+Frequency: Top 2000-2100
+Readings: えっ, えつ
+Composed Of: 言: say, 日: sun, 匂: scent
+----------------------------------------
+Kanji: 嵩
+Keyword: high-reaching
+Frequency: Top 2800-2900
+Readings: かさ, こう
+Composed Of: 山: mountain, 高: high
+----------------------------------------
+Kanji: 捺
+Keyword: impress into
+Frequency: Top 3100-3200
+Readings: お, なつ, なっ
+Composed Of: 扌: left hand, 奈: Nara (city)
+----------------------------------------
+Kanji: 蓉
+Keyword: lotus blossom
+Frequency: Top 2800-2900
+Readings: よう
+Composed Of: 艹: blades of grass, 容: contain
+----------------------------------------
+Kanji: 茉
+Keyword: jasmine
+Frequency: Top 2000-2100
+Readings: まつ
+Composed Of: 艹: blades of grass, 末: end part
+----------------------------------------
+Kanji: 袈
+Keyword: stole
+Frequency: Top 2100-2200
+Readings: げ, け
+Composed Of: 加: add, 衣: garment
+----------------------------------------
+Kanji: 燿
+Keyword: twinkle
+Frequency: Never used
+Readings: かがや
+Composed Of: 火: fire, ヨ: broken trident, ヨ: broken trident, 隹: old bird
+----------------------------------------
+Kanji: 誼
+Keyword: familiarity
+Frequency: Top 2900-3000
+Readings: ぎ, よしび, よしみ
+Composed Of: 言: say, 宜: best regards
+----------------------------------------
+Kanji: 冶
+Keyword: metallurgy
+Frequency: Top 1900-2000
+Readings: じ, や, ぬち
+Composed Of: 冫: icicles, 台: pedestal
+----------------------------------------
+Kanji: 墾
+Keyword: groundbreaking
+Frequency: Top 3000-3100
+Readings: こん
+Composed Of: 豸: badger, 艮: almost good, 土: earth
+----------------------------------------
+Kanji: 勁
+Keyword: formidable
+Frequency: Very rare
+Readings: けい
+Composed Of: 巠: streams running underground, 力: power
+----------------------------------------
+Kanji: 菖
+Keyword: iris (flower)
+Frequency: Top 3100-3200
+Readings: しょう, そう
+Composed Of: 艹: blades of grass, 昌: good and prosperous
+----------------------------------------
+Kanji: 椋
+Keyword: Oriental elm
+Frequency: Top 3100-3200
+Readings: むく, むくのき
+Composed Of: 木: tree, 京: capital
+----------------------------------------
+Kanji: 叡
+Keyword: sapience
+Frequency: Top 2500-2600
+Readings: えい
+Composed Of: 睿: intelligence, 又: once again
+----------------------------------------
+Kanji: 紬
+Keyword: pongee
+Frequency: Top 2800-2900
+Readings: つむぎ
+Composed Of: 糸: thread, 由: reason
+----------------------------------------
+Kanji: 胤
+Keyword: blood relative
+Frequency: Top 2900-3000
+Readings: たね, いん, だね
+Composed Of: 儿: legs, 幺: thread spool, 月: moon
+----------------------------------------
+Kanji: 凜
+Keyword: severely cold
+Frequency: Top 2200-2300
+Readings: りん, り
+Composed Of: 冫: icicles, 稟: salary in rice
+----------------------------------------
+Kanji: 亥
+Keyword: sign of the boar
+Frequency: Top 3000-3100
+Readings: い, がい
+Composed Of: 亠: lid, 𠄌: L-shaped leg, 丿: slash left, 人: person
+----------------------------------------
+Kanji: 爵
+Keyword: baron
+Frequency: Top 500-600
+Readings: しゃく, さく
+Composed Of: 爫: claw (radical), 罒: small net, 日: sun, 厶: arm of a bodybuilder, 寸: a few centimeters
+----------------------------------------
+Kanji: 脹
+Keyword: dilate
+Frequency: Top 3300-3400
+Readings: ふく, ちょう, ふくら, ぶく, は
+Composed Of: 月: moon, 長: long
+----------------------------------------
+Kanji: 麟
+Keyword: camelopard
+Frequency: Top 2700-2800
+Readings: りん
+Composed Of: 鹿: deer, 米: rice, 舛: dancing legs
+----------------------------------------
+Kanji: 瑶
+Keyword: precious stone
+Frequency: Top 3400-3500
+Readings: よう
+Composed Of: 王: king, 𠂊: hook claw, 丶: droplet, 丶: droplet, 缶: tin can
+----------------------------------------
+Kanji: 瑳
+Keyword: burnish
+Frequency: Never used
+Readings: さ
+Composed Of: 王: king, 差: difference
+----------------------------------------
+Kanji: 耶
+Keyword: exclamation
+Frequency: Top 2200-2300
+Readings: や
+Composed Of: 耳: ear, 阝: small village
+----------------------------------------
+Kanji: 椰
+Keyword: coconut tree
+Frequency: Top 3300-3400
+Readings: や
+Composed Of: 木: tree, 耳: ear, 阝: small village
+----------------------------------------
+Kanji: 絃
+Keyword: catgut
+Frequency: Top 2800-2900
+Readings: つる, げん
+Composed Of: 糸: thread, 玄: dark and mysterious
+----------------------------------------
+Kanji: 丞
+Keyword: helping hand
+Frequency: Top 2900-3000
+Readings: じょう
+Composed Of: 乛: Mario cap, 水: water, 一: one
+----------------------------------------
+Kanji: 奎
+Keyword: Andromeda
+Frequency: Very rare
+Readings: けい
+Composed Of: 大: large, 圭: square jewel
+----------------------------------------
+Kanji: 塑
+Keyword: take form
+Frequency: Uncommon
+Readings: そ
+Composed Of: 朔: first day of the month, 土: earth
+----------------------------------------
+Kanji: 昂
+Keyword: get worked up
+Frequency: Top 1900-2000
+Readings: こう, たか, たかぶ
+Composed Of: 日: sun, 匕: spoon, 卩: crooked seal
+----------------------------------------
+Kanji: 柾
+Keyword: spindle tree
+Frequency: Top 3200-3300
+Readings: まさき, まさ
+Composed Of: 木: tree, 正: correct
+----------------------------------------
+Kanji: 熙
+Keyword: sunny
+Frequency: Very rare
+Readings: き
+Composed Of: 臣: government minister, 灬: fire sparks
+----------------------------------------
+Kanji: 菫
+Keyword: violet
+Frequency: Top 2200-2300
+Readings: すみれ
+Composed Of: 艹: blades of grass, 一: one, 口: mouth, 龶: king with a hat
+----------------------------------------
+Kanji: 鞠
+Keyword: terminate
+Frequency: Top 2200-2300
+Readings: まり, きく
+Composed Of: 革: leather, 勹: plastic wrapper, 米: rice
+----------------------------------------
+Kanji: 崚
+Keyword: rugged mountains
+Frequency: Never used
+Readings: 
+Composed Of: 山: mountain, 土: earth, 儿: legs, 夂: late winter
+----------------------------------------
+Kanji: 濫
+Keyword: excessive
+Frequency: Top 2800-2900
+Readings: らん, みだ
+Composed Of: 氵: water drops, 監: supervise
+----------------------------------------
+Kanji: 捷
+Keyword: spoils
+Frequency: Top 2600-2700
+Readings: しょう, はしこ, はしっこ, はや
+Composed Of: 扌: left hand, 一: one, ⺕: sideways trident, 龰: running shoes
+----------------------------------------
+Kanji: 蚕
+Keyword: silkworm
+Frequency: Top 2700-2800
+Readings: かいこ, さん
+Composed Of: 天: heaven, 虫: insect
+----------------------------------------
+Kanji: 曖
+Keyword: unclear
+Frequency: Top 1700-1800
+Readings: あい
+Composed Of: 日: sun, 愛: love
+----------------------------------------
+Kanji: 畏
+Keyword: apprehensive
+Frequency: Top 1800-1900
+Readings: い, かしこ, おそ, かしく
+Composed Of: 田: rice field, 一: one, 󺨁: long legs
+----------------------------------------
+Kanji: 萎
+Keyword: wither
+Frequency: Top 2100-2200
+Readings: な, い, しぼ, しお, しおり, しな
+Composed Of: 艹: blades of grass, 委: committee
+----------------------------------------
+Kanji: 彙
+Keyword: glossary
+Frequency: Top 2800-2900
+Readings: い
+Composed Of: 彑: pig's head on a stick, 冖: roof without a chimney, 果: fruit
+----------------------------------------
+Kanji: 咽
+Keyword: windpipe
+Frequency: Top 2100-2200
+Readings: えつ, いん, のど, のみと, のみど, のんど, むせ, む
+Composed Of: 口: mouth, 因: cause
+----------------------------------------
+Kanji: 淫
+Keyword: lewd
+Frequency: Top 1600-1700
+Readings: いん, みだ
+Composed Of: 氵: water drops, 爫: claw (radical), 壬: 9th in rank
+----------------------------------------
+Kanji: 怨
+Keyword: hateful grudge
+Frequency: Top 1900-2000
+Readings: おん, えん, うら
+Composed Of: 夕: evening (before sunset), 㔾: fingerprint, 心: heart
+----------------------------------------
+Kanji: 臆
+Keyword: be hesitant
+Frequency: Top 1900-2000
+Readings: おく
+Composed Of: 月: moon, 意: idea
+----------------------------------------
+Kanji: 瓦
+Keyword: tile
+Frequency: Top 1700-1800
+Readings: が, かわら, がわら
+Composed Of: 瓶: bottle, 甕: jug, 甍: roof tile, 甑: rice-steaming pot
+----------------------------------------
+Kanji: 楷
+Keyword: block letters
+Frequency: Uncommon
+Readings: かい
+Composed Of: 木: tree, 皆: all
+----------------------------------------
+Kanji: 潰
+Keyword: crush
+Frequency: Top 900-1000
+Readings: つぶ, つい, かい
+Composed Of: 氵: water drops, 貴: noble
+----------------------------------------
+Kanji: 諧
+Keyword: orderliness
+Frequency: Top 3200-3300
+Readings: かい
+Composed Of: 言: say, 皆: all
+----------------------------------------
+Kanji: 蓋
+Keyword: lid
+Frequency: Top 1400-1500
+Readings: ふた, がい, ぶた
+Composed Of: 艹: blades of grass, 去: past, 皿: dish
+----------------------------------------
+Kanji: 骸
+Keyword: remains
+Frequency: Top 1500-1600
+Readings: がい, むくろ, がら
+Composed Of: 骨: bone, 亥: sign of the boar
+----------------------------------------
+Kanji: 柿
+Keyword: persimmon
+Frequency: Top 2600-2700
+Readings: かき, がき, し
+Composed Of: 木: tree, 市: city
+----------------------------------------
+Kanji: 嚇
+Keyword: intimidate
+Frequency: Top 2200-2300
+Readings: かく, おど
+Composed Of: 口: mouth, 赫: incandescent
+----------------------------------------
+Kanji: 顎
+Keyword: chin
+Frequency: Top 1300-1400
+Readings: あご, がく
+Composed Of: 咢: shocked, 頁: page
+----------------------------------------
+Kanji: 葛
+Keyword: kudzu (a type of plant)
+Frequency: Top 2000-2100
+Readings: かっ, くず, つづら
+Composed Of: 艹: blades of grass, 日: sun, 匂: scent
+----------------------------------------
+Kanji: 釜
+Keyword: cauldron
+Frequency: Top 2300-2400
+Readings: かま, がま, ふ, ぷ
+Composed Of: 父: father, 王: king, 丷: horns
+----------------------------------------
+Kanji: 玩
+Keyword: toy
+Frequency: Top 2100-2200
+Readings: がん, もてあそ
+Composed Of: 王: king, 元: origin
+----------------------------------------
+Kanji: 毀
+Keyword: demolish
+Frequency: Top 3100-3200
+Readings: き, こわ, こぼ
+Composed Of: 臼: mortar (a hollow cup), 土: earth, 殳: weapon
+----------------------------------------
+Kanji: 畿
+Keyword: territories near the capital
+Frequency: Top 3100-3200
+Readings: き
+Composed Of: 戈: dagger-axe, 幺: thread spool, 幺: thread spool, 田: rice field
+----------------------------------------
+Kanji: 臼
+Keyword: mortar (a hollow cup)
+Frequency: Top 2800-2900
+Readings: うす, きゅう
+Composed Of: 睨: glare at, 鼠: mouse, 猊: the seat of a famous priest, 潟: lagoon
+----------------------------------------
+Kanji: 嗅
+Keyword: sniff
+Frequency: Top 1600-1700
+Readings: か, きゅう
+Composed Of: 口: mouth, 臭: smelly
+----------------------------------------
+Kanji: 僅
+Keyword: trifle
+Frequency: Top 1300-1400
+Readings: わず, きん
+Composed Of: 亻: thin person, 艹: blades of grass, 口: mouth, 龶: king with a hat
+----------------------------------------
+Kanji: 惧
+Keyword: disquieting
+Frequency: Top 2300-2400
+Readings: ぐ, おそ
+Composed Of: 忄: weak heart, 具: tool
+----------------------------------------
+Kanji: 窟
+Keyword: den
+Frequency: Top 1600-1700
+Readings: くつ, いわや
+Composed Of: 穴: hole, 屈: bend
+----------------------------------------
+Kanji: 薫
+Keyword: fragrant herb
+Frequency: Top 1900-2000
+Readings: くん, かお
+Composed Of: 艹: blades of grass, 重: heavy, 灬: fire sparks
+----------------------------------------
+Kanji: 詣
+Keyword: visit a shrine
+Frequency: Top 2500-2600
+Readings: けい, もうで, もう, まい
+Composed Of: 言: say, 旨: tasty
+----------------------------------------
+Kanji: 憬
+Keyword: long for
+Frequency: Top 2900-3000
+Readings: けい
+Composed Of: 忄: weak heart, 景: scenery
+----------------------------------------
+Kanji: 稽
+Keyword: training
+Frequency: Top 1600-1700
+Readings: けい, げい
+Composed Of: 禾: grain plant, 尤: plausible, 旨: tasty
+----------------------------------------
+Kanji: 桁
+Keyword: number of digits
+Frequency: Top 2100-2200
+Readings: けた, げた, こう
+Composed Of: 木: tree, 行: go
+----------------------------------------
+Kanji: 繭
+Keyword: cocoon
+Frequency: Top 2400-2500
+Readings: まゆ
+Composed Of: 艹: blades of grass, 冂: upside-down box, 丨: stick, 幺: thread spool, 灬: fire sparks, 虫: insect
+----------------------------------------
+Kanji: 舷
+Keyword: gunwale
+Frequency: Top 2600-2700
+Readings: げん
+Composed Of: 舟: boat, 玄: dark and mysterious
+----------------------------------------
+Kanji: 錮
+Keyword: weld
+Frequency: Very rare
+Readings: こ
+Composed Of: 金: gold, 固: solidify
+----------------------------------------
+Kanji: 勾
+Keyword: flexed
+Frequency: Top 2700-2800
+Readings: こう, まが
+Composed Of: 勹: plastic wrapper, 厶: arm of a bodybuilder
+----------------------------------------
+Kanji: 侯
+Keyword: marquis
+Frequency: Top 1300-1400
+Readings: こう
+Composed Of: 亻: thin person, ユ: submarine periscope, 矢: arrow
+----------------------------------------
+Kanji: 梗
+Keyword: round tube
+Frequency: Top 2300-2400
+Readings: きょう, こう
+Composed Of: 木: tree, 更: all over again
+----------------------------------------
+Kanji: 乞
+Keyword: beg
+Frequency: Top 2000-2100
+Readings: こ, ご, こつ, ごい
+Composed Of: 𠂉: cow head, 乙: latter
+----------------------------------------
+Kanji: 痕
+Keyword: scar
+Frequency: Top 1500-1600
+Readings: こん, あと
+Composed Of: 疒: sickness, 艮: almost good
+----------------------------------------
+Kanji: 墾
+Keyword: groundbreaking
+Frequency: Top 3000-3100
+Readings: こん
+Composed Of: 豸: badger, 艮: almost good, 土: earth
+----------------------------------------
+Kanji: 挫
+Keyword: sprain
+Frequency: Top 2200-2300
+Readings: ざ, くじ
+Composed Of: 扌: left hand, 坐: sitting around an earth pillar
+----------------------------------------
+Kanji: 采
+Keyword: colorful dice
+Frequency: Top 2200-2300
+Readings: さい, さえ
+Composed Of: 爫: claw (radical), 木: tree
+----------------------------------------
+Kanji: 塞
+Keyword: blockage
+Frequency: Top 1200-1300
+Readings: ふさ, さい, ふた, そく
+Composed Of: 宀: roof with a chimney, 𠀎: tall fence made of sticks, ハ: short legs, 土: earth
+----------------------------------------
+Kanji: 刹
+Keyword: pagoda
+Frequency: Top 1600-1700
+Readings: せつ, さつ
+Composed Of: 㐅: cross, 木: tree, 刂: knife
+----------------------------------------
+Kanji: 恣
+Keyword: selfish
+Frequency: Top 3100-3200
+Readings: し, ほしいまま
+Composed Of: 次: next, 心: heart
+----------------------------------------
+Kanji: 嗣
+Keyword: heir
+Frequency: Top 2600-2700
+Readings: し, つ, つぎ
+Composed Of: 口: mouth, 冊: volume (of a book), 司: boss
+----------------------------------------
+Kanji: 摯
+Keyword: clasp
+Frequency: Top 2300-2400
+Readings: し
+Composed Of: 執: devoted, 手: hand
+----------------------------------------
+Kanji: 賜
+Keyword: grant
+Frequency: Top 2100-2200
+Readings: たまわ, たま, し, たまもの
+Composed Of: 貝: shellfish, 易: easy
+----------------------------------------
+Kanji: 餌
+Keyword: animal food
+Frequency: Top 1600-1700
+Readings: え, えさ, じ
+Composed Of: 飠: eat a little, 耳: ear
+----------------------------------------
+Kanji: 璽
+Keyword: imperial seal
+Frequency: Top 3100-3200
+Readings: じ
+Composed Of: 爾: let it be, 玉: ball
+----------------------------------------
+Kanji: 嫉
+Keyword: hateful jealousy
+Frequency: Top 1600-1700
+Readings: しっ, そね
+Composed Of: 女: woman, 疾: rapidly
+----------------------------------------
+Kanji: 腫
+Keyword: become swollen
+Frequency: Top 1900-2000
+Readings: は, しゅ, ば
+Composed Of: 月: moon, 重: heavy
+----------------------------------------
+Kanji: 羞
+Keyword: embarrassment
+Frequency: Top 2000-2100
+Readings: しゅう, はじ, は
+Composed Of: 𦍌: force of nature, 丿: slash left, 丑: sign of the cow
+----------------------------------------
+Kanji: 拭
+Keyword: wipe
+Frequency: Top 1100-1200
+Readings: ぬぐ, ふ, しき, しょく, ぬぐい
+Composed Of: 扌: left hand, 式: ceremony
+----------------------------------------
+Kanji: 腎
+Keyword: kidney
+Frequency: Top 2800-2900
+Readings: じん, むらと, むらど
+Composed Of: 臤: wise and hardy, 月: moon
+----------------------------------------
+Kanji: 裾
+Keyword: hem
+Frequency: Top 1600-1700
+Readings: すそ
+Composed Of: 衤: altar clothes, 居: to be (animate object)
+----------------------------------------
+Kanji: 醒
+Keyword: awakening
+Frequency: Top 1700-1800
+Readings: せい, さ, ざ
+Composed Of: 酉: sign of the bird, 星: star
+----------------------------------------
+Kanji: 斥
+Keyword: reject
+Frequency: Top 2200-2300
+Readings: せっ, せき, しりぞ
+Composed Of: 斤: axe, 丶: droplet
+----------------------------------------
+Kanji: 腺
+Keyword: gland
+Frequency: Top 2600-2700
+Readings: せん
+Composed Of: 月: moon, 泉: fountain
+----------------------------------------
+Kanji: 詮
+Keyword: be worthwhile
+Frequency: Top 1600-1700
+Readings: せん
+Composed Of: 言: say, 全: whole
+----------------------------------------
+Kanji: 箋
+Keyword: slip of paper
+Frequency: Top 2500-2600
+Readings: せん
+Composed Of: 竹: bamboo, 戔: remain
+----------------------------------------
+Kanji: 膳
+Keyword: dining tray
+Frequency: Top 2200-2300
+Readings: ぜん
+Composed Of: 月: moon, 善: morally good
+----------------------------------------
+Kanji: 繕
+Keyword: darning
+Frequency: Top 1800-1900
+Readings: つくろ, ぜん, づくろ
+Composed Of: 糸: thread, 善: morally good
+----------------------------------------
+Kanji: 塑
+Keyword: take form
+Frequency: Uncommon
+Readings: そ
+Composed Of: 朔: first day of the month, 土: earth
+----------------------------------------
+Kanji: 遡
+Keyword: go upstream
+Frequency: Top 2300-2400
+Readings: さかのぼ, そ
+Composed Of: 朔: first day of the month, 辶: walking on a road
+----------------------------------------
+Kanji: 曽
+Keyword: great (grandparent or grandchild)
+Frequency: Top 2700-2800
+Readings: ひ, そう, ひい, ぞ
+Composed Of: 丷: horns, 田: rice field, 日: sun
+----------------------------------------
+Kanji: 踪
+Keyword: trail
+Frequency: Top 2200-2300
+Readings: そう
+Composed Of: 𧾷: slender foot, 宗: religion
+----------------------------------------
+Kanji: 唾
+Keyword: saliva
+Frequency: Top 1400-1500
+Readings: つば, だ, つ, つばき, つわ, つわき, つわっぱ, ず, づ
+Composed Of: 口: mouth, 垂: droop
+----------------------------------------
+Kanji: 堆
+Keyword: piled high
+Frequency: Top 3000-3100
+Readings: たい, うずたか
+Composed Of: 土: earth, 隹: old bird
+----------------------------------------
+Kanji: 但
+Keyword: however
+Frequency: Top 2600-2700
+Readings: ただ, たじ
+Composed Of: 亻: thin person, 旦: start of a day
+----------------------------------------
+Kanji: 綻
+Keyword: come apart at the seams
+Frequency: Top 2000-2100
+Readings: ほころ, たん
+Composed Of: 糸: thread, 定: define
+----------------------------------------
+Kanji: 緻
+Keyword: fine
+Frequency: Top 2500-2600
+Readings: ち
+Composed Of: 糸: thread, 致: politely do
+----------------------------------------
+Kanji: 嘲
+Keyword: mockery
+Frequency: Top 1500-1600
+Readings: ちょう, あざ, あざけ
+Composed Of: 口: mouth, 朝: morning
+----------------------------------------
+Kanji: 勅
+Keyword: imperial order
+Frequency: Top 2500-2600
+Readings: ちょく, みことのり, ちょっ
+Composed Of: 束: bundle, 力: power
+----------------------------------------
+Kanji: 捗
+Keyword: make headway
+Frequency: Top 2500-2600
+Readings: ちょく, はかど, はか
+Composed Of: 扌: left hand, 止: stop, 少: few
+----------------------------------------
+Kanji: 溺
+Keyword: to drown
+Frequency: Top 1800-1900
+Readings: おぼ, でき
+Composed Of: 氵: water drops, 弱: weak
+----------------------------------------
+Kanji: 填
+Keyword: stuff something with
+Frequency: Top 2300-2400
+Readings: てん, は, はま
+Composed Of: 土: earth, 真: truth
+----------------------------------------
+Kanji: 妬
+Keyword: malicious jealousy
+Frequency: Top 1500-1600
+Readings: と, ねた, や
+Composed Of: 女: woman, 石: stone
+----------------------------------------
+Kanji: 頓
+Keyword: immediate
+Frequency: Top 2000-2100
+Readings: とん, とに, とみ
+Composed Of: 屯: barracks, 頁: page
+----------------------------------------
+Kanji: 貪
+Keyword: covet
+Frequency: Top 1900-2000
+Readings: むさぼ, どん, たん, とん
+Composed Of: 今: now, 貝: shellfish
+----------------------------------------
+Kanji: 捻
+Keyword: wrenching
+Frequency: Top 1600-1700
+Readings: ひね, ね, ねん, ねじ
+Composed Of: 扌: left hand, 念: a sense of
+----------------------------------------
+Kanji: 罵
+Keyword: insult
+Frequency: Top 1700-1800
+Readings: ば, ののし
+Composed Of: 罒: small net, 馬: horse
+----------------------------------------
+Kanji: 剥
+Keyword: peel off
+Frequency: Top 1300-1400
+Readings: は, む, へ, はく
+Composed Of: 彐: partially buried broken trident, 氺: water splash, 刂: knife
+----------------------------------------
+Kanji: 氾
+Keyword: widespread
+Frequency: Top 3000-3100
+Readings: はん
+Composed Of: 氵: water drops, 㔾: fingerprint
+----------------------------------------
+Kanji: 汎
+Keyword: far reaching
+Frequency: Top 2600-2700
+Readings: はん
+Composed Of: 氵: water drops, 凡: mediocre
+----------------------------------------
+Kanji: 斑
+Keyword: spot
+Frequency: Top 2300-2400
+Readings: はん, まだら, もどろ, むら, ふ, ぶち, ふち
+Composed Of: 王: king, 文: written sentence, 王: king
+----------------------------------------
+Kanji: 頒
+Keyword: partition
+Frequency: Top 3500-3600
+Readings: はん, あか
+Composed Of: 分: part, 頁: page
+----------------------------------------
+Kanji: 肘
+Keyword: elbow
+Frequency: Top 1700-1800
+Readings: ひじ, ちゅう
+Composed Of: 月: moon, 寸: a few centimeters
+----------------------------------------
+Kanji: 附
+Keyword: attachment
+Frequency: Top 2500-2600
+Readings: ふ, つ, つけ, づけ, っ, ぶ
+Composed Of: 阝: small village, 付: attach
+----------------------------------------
+Kanji: 訃
+Keyword: news of someone's death
+Frequency: Top 3300-3400
+Readings: ふ
+Composed Of: 言: say, 卜: crooked divining rod
+----------------------------------------
+Kanji: 賦
+Keyword: levy
+Frequency: Top 2600-2700
+Readings: ぷ, ふ, ぶ
+Composed Of: 貝: shellfish, 武: military
+----------------------------------------
+Kanji: 丙
+Keyword: third in class
+Frequency: Top 3400-3500
+Readings: へい, ひのえ
+Composed Of: 一: one, 内: inside
+----------------------------------------
+Kanji: 蔽
+Keyword: to cover
+Frequency: Top 2100-2200
+Readings: ぺい, へい, おお
+Composed Of: 艹: blades of grass, 敝: damaged clothing
+----------------------------------------
+Kanji: 倣
+Keyword: emulate
+Frequency: Top 2200-2300
+Readings: ほう, なら
+Composed Of: 亻: thin person, 放: release
+----------------------------------------
+Kanji: 貌
+Keyword: facial features
+Frequency: Top 1400-1500
+Readings: ぼう, かお, かたち
+Composed Of: 豸: badger, 白: white, 儿: legs
+----------------------------------------
+Kanji: 頬
+Keyword: cheek
+Frequency: Top 800-900
+Readings: ほお, ほほ, ほ
+Composed Of: 夫: husband, 丷: horns, 頁: page
+----------------------------------------
+Kanji: 勃
+Keyword: erection
+Frequency: Top 1700-1800
+Readings: ぼっ, た, ぼつ, だ
+Composed Of: 十: ten, 冖: roof without a chimney, 子: child, 力: power
+----------------------------------------
+Kanji: 昧
+Keyword: vague
+Frequency: Top 1600-1700
+Readings: まい
+Composed Of: 日: sun, 未: not yet
+----------------------------------------
+Kanji: 喩
+Keyword: metaphor
+Frequency: Top 2300-2400
+Readings: ゆ, たと
+Composed Of: 口: mouth, 兪: affirmative response
+----------------------------------------
+Kanji: 瘍
+Keyword: carbuncle
+Frequency: Top 2700-2800
+Readings: よう
+Composed Of: 疒: sickness, 昜: light of the sun
+----------------------------------------
+Kanji: 沃
+Keyword: irrigate
+Frequency: Top 3000-3100
+Readings: よく, よう
+Composed Of: 氵: water drops, 夭: early death
+----------------------------------------
+Kanji: 辣
+Keyword: bitter
+Frequency: Top 2300-2400
+Readings: らつ
+Composed Of: 辛: spicy, 束: bundle
+----------------------------------------
+Kanji: 慄
+Keyword: shudder
+Frequency: Top 2000-2100
+Readings: りつ, おのの
+Composed Of: 忄: weak heart, 栗: chestnut
+----------------------------------------
+Kanji: 侶
+Keyword: partner
+Frequency: Top 2000-2100
+Readings: りょ, とも
+Composed Of: 亻: thin person, 呂: bathtub
+----------------------------------------
+Kanji: 弄
+Keyword: tinker with
+Frequency: Top 1500-1600
+Readings: ろう, いじ, まさぐ, もてあそ, いら
+Composed Of: 王: king, 廾: both hands
+----------------------------------------
+Kanji: 籠
+Keyword: basket
+Frequency: Top 1300-1400
+Readings: かご, こ, ろう, ご, こも, ごも
+Composed Of: 竹: bamboo, 龍: ancient dragon
+----------------------------------------
+Kanji: 麓
+Keyword: foot of a mountain
+Frequency: Top 2500-2600
+Readings: ふもと, ろく
+Composed Of: 林: a bunch of trees, 鹿: deer
+----------------------------------------
